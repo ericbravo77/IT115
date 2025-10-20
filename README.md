@@ -1,2 +1,2 @@
-# IT115
+Other
 Repository for IT 115
